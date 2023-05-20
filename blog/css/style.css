@@ -175,8 +175,7 @@ aside p {
     display: flex;
 }
 
-.footer p {
-    display: flex
+footer p {
     font-family: roboto;
     font-size: 0.75rem;
     color: #2b363f;
@@ -185,6 +184,7 @@ aside p {
 
 .copyright {
     text-align: left;
+    float: inline-end;
 }
 
 
