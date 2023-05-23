@@ -175,16 +175,19 @@ aside p {
     display: flex;
 }
 
-footer p {
+footer div {
     font-family: roboto;
     font-size: 0.75rem;
     color: #2b363f;
     text-align: right;
+    float: right;
+    width: 50%;
 }
 
-.copyright {
+div.copyright {
     text-align: left;
-    float: inline-end;
+    float: left;
+    width: 50%;
 }
 
 
